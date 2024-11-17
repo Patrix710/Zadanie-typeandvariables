@@ -1,0 +1,7 @@
+company: "ABC Data" (string)
+phone: "555-123-009" (string)
+employees: 25 (int)
+remote_work: True (bool)
+big_company: True (bool)
+income: 4500000 (int)
+income_per_person: 180000 (float)
